@@ -103,6 +103,7 @@ view: parameters {
         else date({% parameter parameters.select_reference_date_advanced %})
       end
     ;;
+  }
 
 ### CURRENT TIMESTAMP }
 }
